@@ -13,7 +13,7 @@ export default function ContactUs() {
   return (
     <div className='w-full'>
         <h1 className='
-        xl:text-4xl xl:font-bold xl:ml-[180px]
+        xl:text-4xl xl:font-bold xl:ml-[250px]
         lg:text-3xl lg:font-bold lg:ml-[30px] 
         md:text-2xl md:font-bold md:ml-[80px]
         sm:text-2xl sm:font-bold sm:ml-[30px]'>Let's Get Talking</h1>
@@ -129,7 +129,7 @@ export default function ContactUs() {
       </div>
 
         <h1 className='
-        xl:text-3xl xl:font-bold xl:ml-[200px] xl:w-[450px]
+        xl:text-3xl xl:font-bold xl:ml-[220px] xl:w-[430px]
         lg:text-xl lg:font-extrabold lg:ml-[260px] lg:w-[450px]
         md:text-xl md:font-extrabold md:ml-[150px] md:w-[450px] md:mt-[-50px]
         sm:text-xl sm:font-extrabold sm:ml-[110px] sm:w-[450px] sm:mt-[-50px]'>Fixing Homes and Setting You Up for Success</h1>
@@ -138,7 +138,7 @@ export default function ContactUs() {
       xl:mx-auto xl:h-[600px] xl:w-[1070px] xl:mt-[10px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[10px] lg:mb-[50px] lg:flex lg:justify-around md:mx-auto md:h-[700px] md:w-full md:mt-[10px] md:mb-[50px] md:flex md:justify-around
       sm:mx-auto sm:h-[700px] sm:w-full sm:mt-[10px] sm:mb-[50px] sm:flex sm:justify-around '>
         <div className='
-        xl:h-[500px] xl:w-[500px] xl:mt-5 xl:text-xl xl:text-center
+        xl:h-[500px] xl:w-[500px] xl:mt-5 xl:text-xl xl:text-center xl:ml-[-50px]
         lg:h-[500px] lg:w-[400px] lg:mt-5 lg:text-xl lg:text-center
         md:h-[600px] md:w-[300px] md:mt-5 md:text-sm md:text-center
         sm:h-[600px] sm:w-[300px] sm:mt-5 sm:text-sm sm:text-center'>
