@@ -86,12 +86,12 @@ export default function SecondPart() {
       </div>
 
       <div className='
-      xl:w-[1000px] xl:h-[600px] xl:ml-64 xl:mt-[30px] xl:pt-[50px] xl:flex xl:justify-between xl:ml-
+      xl:w-[990px] xl:h-[600px] xl:ml-64 xl:mt-[30px] xl:pt-[50px] xl:flex xl:justify-between xl:ml-
       lg:w-[900px] lg:h-[600px] lg:flex lg:justify-around lg:ml-[100px]
       md:flex md:justify-around md:mb-[350px] md:mt-[100px] md:w-[700px] md:h-[600px]
       sm:flex sm:justify-around sm:mb-[350px] sm:mt-[100px] '>
         <div className='
-        xl:w-[250px] xl:h-[200px] 
+        xl:w-[300px] xl:h-[200px] 
         lg:w-[250px] lg:ml-[-10px]
         md:w-[200px] md:ml-[50px]
         sm:w-[150px] sm:ml-[40px]
@@ -99,14 +99,14 @@ export default function SecondPart() {
             <img src="images/img1.jpg" alt="Tractor pic" className='rounded-md' />
         </div>
         <div className='
-        xl:w-[250px] xl:h-[200px] 
+        xl:w-[300px] xl:h-[200px] 
         lg:w-[250px] 
         md:w-[200px]
         sm:w-[150px]'>
             <img src="images/img2.webp" alt="" className='rounded-md'/>
         </div>
         <div className='
-        xl:w-[250px] xl:h-[200px] 
+        xl:w-[300px] xl:h-[200px] 
         lg:w-[230px] 
         md:w-[200px]
         sm:w-[150px]'>
