@@ -8,12 +8,12 @@ export default function Navbar() {
   };
 
   return (
-    <div>
+    <div className="overflow-x-hidden"> {/* Added this to ensure no horizontal overflow */}
       <header className="
-        xl:w-full xl:h-14 xl:flex xl:items-center xl:justify-between xl:px-4
-        lg:w-full lg:h-14 lg:flex lg:items-center lg:justify-around lg:px-4
-        md:w-full md:h-14 md:flex md:items-center md:justify-between md:px-4
-        sm:w-full sm:h-14 sm:flex sm:items-center sm:justify-between sm:px-4">
+        xl:w-[100%] xl:h-14 xl:flex xl:items-center xl:justify-between xl:px-4
+        lg:w-[100%] lg:h-14 lg:flex lg:items-center lg:justify-around lg:px-4
+        md:w-[100%] md:h-14 md:flex md:items-center md:justify-between md:px-4
+        sm:w-[100%] sm:h-14 sm:flex sm:items-center sm:justify-between sm:px-4">
         
         <h1 className="
           xl:text-black xl:font-bold xl:text-4xl 
