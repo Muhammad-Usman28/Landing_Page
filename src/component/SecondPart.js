@@ -32,7 +32,7 @@ export default function SecondPart() {
         md:w-[250px] md:h-[500px]
         sm:w-[200px] sm:h-[500px]' >
         <h1 className='
-        xl:text-3xl xl:font-extrabold xl:ml-[-120px] xl:w-[600px]
+        xl:text-3xl xl:font-extrabold xl:ml-[-60px] xl:w-[600px]
         lg:text-2xl lg:font-bold lg:ml-10
         md:text-2xl md:font-bold md:w-[250px]
         sm:text-sm sm:font-bold sm:ml-[20px]'>Professioanl Work With the Toughest Asbestos</h1>
