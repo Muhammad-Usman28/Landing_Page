@@ -13,17 +13,17 @@ export default function ContactUs() {
   return (
     <div className='w-full'>
         <h1 className='
-        xl:text-4xl xl:font-bold xl:ml-[220px]
+        xl:text-4xl xl:font-bold xl:ml-[180px]
         lg:text-3xl lg:font-bold lg:ml-[30px] 
         md:text-2xl md:font-bold md:ml-[80px]
         sm:text-2xl sm:font-bold sm:ml-[30px]'>Let's Get Talking</h1>
 
       <div className='
-      xl:mx-auto xl:h-[700px] xl:w-[1070px] xl:mt-[50px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[50px] lg:mb-[50px] lg:flex lg:justify-between md:mx-auto md:h-[700px] md:w-full md:mt-[50px] md:mb-[50px] md:flex md:justify-between
+      xl:mx-auto xl:h-[700px] xl:w-[1000px] xl:mt-[50px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[50px] lg:mb-[50px] lg:flex lg:justify-between md:mx-auto md:h-[700px] md:w-full md:mt-[50px] md:mb-[50px] md:flex md:justify-between
       sm:mx-auto sm:h-[700px] sm:w-full sm:mt-[50px] sm:mb-[50px] sm:flex sm:justify-around'>
 
         <div className='
-        xl:h-[550px] xl:w-[400px]
+        xl:h-[550px] xl:w-[400px] xl:ml-[-35px]
         lg:h-[500px] lg:w-[300px] lg:ml-[30px]
         md:h-[500px] md:w-[300px] md:ml-[30px]
         sm:h-[500px] sm:w-[300px] sm:ml-[30px]'>
