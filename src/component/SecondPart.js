@@ -38,13 +38,13 @@ export default function SecondPart() {
         sm:text-sm sm:font-bold sm:ml-[20px]'>Professioanl Work With the Toughest Asbestos</h1>
 
         <FontAwesomeIcon icon={faRibbon} className='
-        xl:w-[40px] xl:h-[40px] xl:mx-[10px] xl:mt-20 xl:ml-12 
+        xl:w-[40px] xl:h-[40px] xl:mx-[10px] xl:mt-20 xl:ml-20 
         lg:w-[30px] lg:h-[30px] lg:mt-10 lg:ml-32
         md:ml-[90px] md:mt-10 md:mb-5
         sm:mt-10 sm:mb-5 sm:ml-[70px]' />
 
         <p className='
-        xl:text-center xl:mt-[-10px] xl:text-lg xl:w-[380px] xl:ml-[-120px] 
+        xl:text-center xl:mt-[-10px] xl:text-lg xl:w-[380px] xl:ml-[-70px] 
         lg:text-center lg:text-sm lg:w-[200px] lg:ml-10 lg:mt-10 
         md:w-[180px] md:text-sm md:ml-[20px]
         sm:w-[165px] sm:text-sm sm:ml-[20px] '>Asbestos is a naturally occurring mineral composed of thin, needle-like fibers that have been widely used in construction and manufacturing due to their heat resistance, strength, and insulating properties. It was commonly used in products such as roofing materials, insulation, floor tiles, and cement. However, despite its useful properties, asbestos has been recognized as a significant health hazard.</p>
@@ -57,13 +57,13 @@ export default function SecondPart() {
         sm:w-[200px] sm:h-[500px]' >
 
          <FontAwesomeIcon icon={faDollarSign} className='
-         xl:w-[40px] xl:h-[40px] xl:mt-[150px] xl:ml-[-150px]
-         lg:w-[30px] lg:h-[30px] lg:mt-[110px] lg:ml-[30px]
+         xl:w-[40px] xl:h-[40px] xl:mt-[150px] xl:ml-[-10px]
+         lg:w-[30px] lg:h-[30px] lg:mt-[135px] lg:ml-[30px]
          md:mt-[130px] md:ml-[40px] md:w-[20px] md:h-[20px] md:mb-[20px]
          sm:mt-[80px] sm:ml-[70px] sm:w-[20px] sm:h-[20px] sm:mb-[20px]' /> 
 
             <p className='
-            xl:mt-[-10px] xl:text-lg xl:text-center xl:w-[350px] xl:ml-[-300px] 
+            xl:mt-[-10px] xl:text-lg xl:text-center xl:w-[350px] xl:ml-[-155px] 
             lg:w-[180px] lg:ml-[-50px] lg:mt-[40px] lg:text-center lg:text-sm 
             md:w-[180px] md:text-sm md:ml-[-30px] md:text-center
             sm:w-[150px] sm:text-sm sm:ml-[5px] sm:text-center '>
