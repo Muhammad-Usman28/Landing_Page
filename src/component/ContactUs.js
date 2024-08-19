@@ -12,11 +12,13 @@ export default function ContactUs() {
 
   return (
     <div className='w-full'>
-        <h1 className='
-        xl:text-4xl xl:font-bold xl:ml-[190px]
-        lg:text-3xl lg:font-bold lg:ml-[30px] 
-        md:text-2xl md:font-bold md:ml-[40px]
-        sm:text-2xl sm:font-bold sm:ml-[30px]'>Let's Get Talking</h1>
+    <div className="container xl:ml-[190px]">
+    <h1 className='
+       text-4xl font-bold
+       lg:text-3xl md:text-2xl sm:text-2xl'>Let's Get Talking
+    </h1>
+</div>
+
 
       <div className='
       xl:mx-auto xl:h-[700px] xl:w-[1000px] xl:mt-[50px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[50px] lg:mb-[50px] lg:flex lg:justify-between md:mx-auto md:h-[700px] md:w-full md:mt-[50px] md:mb-[50px] md:flex md:justify-between
