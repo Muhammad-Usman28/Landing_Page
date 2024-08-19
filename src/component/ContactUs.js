@@ -13,7 +13,7 @@ export default function ContactUs() {
   return (
     <div className='w-full'>
         <h1 className='
-        xl:text-4xl xl:font-bold xl:ml-[250px]
+        xl:text-4xl xl:font-bold xl:ml-[150px]
         lg:text-3xl lg:font-bold lg:ml-[30px] 
         md:text-2xl md:font-bold md:ml-[80px]
         sm:text-2xl sm:font-bold sm:ml-[30px]'>Let's Get Talking</h1>
@@ -129,7 +129,7 @@ export default function ContactUs() {
       </div>
 
         <h1 className='
-        xl:text-3xl xl:font-bold xl:ml-[220px] xl:w-[430px]
+        xl:text-3xl xl:font-bold xl:ml-[150px] 
         lg:text-xl lg:font-extrabold lg:ml-[260px] lg:w-[450px]
         md:text-xl md:font-extrabold md:ml-[150px] md:w-[450px] md:mt-[-50px]
         sm:text-xl sm:font-extrabold sm:ml-[110px] sm:w-[450px] sm:mt-[-50px]'>Fixing Homes and Setting You Up for Success</h1>
