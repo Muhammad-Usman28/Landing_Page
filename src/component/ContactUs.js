@@ -11,7 +11,7 @@ export default function ContactUs() {
   };
 
   return (
-    <div>
+    <div className='w-full'>
         <h1 className='
         xl:text-4xl xl:font-bold xl:ml-[280px]
         lg:text-3xl lg:font-bold lg:ml-[30px] 
@@ -19,8 +19,8 @@ export default function ContactUs() {
         sm:text-2xl sm:font-bold sm:ml-[30px]'>Let's Get Talking</h1>
 
       <div className='
-      xl:mx-auto xl:h-[700px] xl:w-[1070px] xl:mt-[50px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-[1024px] lg:mt-[50px] lg:mb-[50px] lg:flex lg:justify-between md:mx-auto md:h-[700px] md:w-[768px] md:mt-[50px] md:mb-[50px] md:flex md:justify-between
-      sm:mx-auto sm:h-[700px] sm:w-[640px] sm:mt-[50px] sm:mb-[50px] sm:flex sm:justify-around'>
+      xl:mx-auto xl:h-[700px] xl:w-[1070px] xl:mt-[50px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[50px] lg:mb-[50px] lg:flex lg:justify-between md:mx-auto md:h-[700px] md:w-full md:mt-[50px] md:mb-[50px] md:flex md:justify-between
+      sm:mx-auto sm:h-[700px] sm:w-full sm:mt-[50px] sm:mb-[50px] sm:flex sm:justify-around'>
 
         <div className='
         xl:h-[550px] xl:w-[400px]
@@ -135,8 +135,8 @@ export default function ContactUs() {
         sm:text-xl sm:font-extrabold sm:ml-[110px] sm:w-[450px] sm:mt-[-50px]'>Fixing Homes and Setting You Up for Success</h1>
 
       <div className='
-      xl:mx-auto xl:h-[600px] xl:w-[1070px] xl:mt-[10px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-[1070px] lg:mt-[10px] lg:mb-[50px] lg:flex lg:justify-around md:mx-auto md:h-[700px] md:w-[768px] md:mt-[10px] md:mb-[50px] md:flex md:justify-around
-      sm:mx-auto sm:h-[700px] sm:w-[640px] sm:mt-[10px] sm:mb-[50px] sm:flex sm:justify-around '>
+      xl:mx-auto xl:h-[600px] xl:w-[1070px] xl:mt-[10px] xl:mb-[50px] xl:flex xl:justify-between lg:mx-auto lg:h-[700px] lg:w-full lg:mt-[10px] lg:mb-[50px] lg:flex lg:justify-around md:mx-auto md:h-[700px] md:w-full md:mt-[10px] md:mb-[50px] md:flex md:justify-around
+      sm:mx-auto sm:h-[700px] sm:w-full sm:mt-[10px] sm:mb-[50px] sm:flex sm:justify-around '>
         <div className='
         xl:h-[500px] xl:w-[500px] xl:mt-5 xl:text-xl xl:text-center
         lg:h-[500px] lg:w-[400px] lg:mt-5 lg:text-xl lg:text-center

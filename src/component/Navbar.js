@@ -8,12 +8,13 @@ export default function Navbar() {
   };
 
   return (
-    <div className="overflow-x-hidden"> {/* Added this to ensure no horizontal overflow */}
+    <div className="w-full">
       <header className="
-        xl:w-[100%] xl:h-14 xl:flex xl:items-center xl:justify-between xl:px-4
-        lg:w-[100%] lg:h-14 lg:flex lg:items-center lg:justify-around lg:px-4
-        md:w-[100%] md:h-14 md:flex md:items-center md:justify-between md:px-4
-        sm:w-[100%] sm:h-14 sm:flex sm:items-center sm:justify-between sm:px-4">
+         fixed top-0 left-0 right-0 z-100 bg-white shadow-lg
+        xl:w-full xl:h-14 xl:flex xl:items-center xl:justify-between xl:px-4
+        lg:w-full lg:h-14 lg:flex lg:items-center lg:justify-between lg:px-4
+        md:w-full md:h-14 md:flex md:items-center md:justify-between md:px-4
+        sm:w-full sm:h-14 sm:flex sm:items-center sm:justify-between sm:px-4">
         
         <h1 className="
           xl:text-black xl:font-bold xl:text-4xl 
@@ -28,7 +29,7 @@ export default function Navbar() {
         </button>
         
         {/* Navbar for larger screens */}
-        <nav className="hidden xl:flex lg:flex md:flex space-x-10">
+        <nav className="hidden xl:flex xl:justify-between lg:flex md:flex space-x-12 mt-1"> {/* Adjusted spacing */}
           <a href="/home" className="
             xl:text-black xl:font-semibold xl:text-2xl 
             lg:text-black lg:font-semibold lg:text-xl

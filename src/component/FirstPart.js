@@ -2,13 +2,14 @@ import React from "react";
 
 export default function FirstPart() {
   return (
-    <div className="overflow-hidden"> {/* Ensure no overflow on the body */}
+    <div className="w-full"> {/* Ensure no overflow on the body */}
       <img
         src="images/img1.jpg"
         alt="Tractor Crane Images"
         className="
-        xl:block xl:mx-auto xl:h-[500px] xl:w-full xl:mt-8
-        lg:block lg:mx-auto lg:h-[500px] lg:w-full lg:mt-8
+        xl:block xl:w-full xl:h-[500px]  xl:mt-8
+        lg:block lg:w-full lg:h-[500px]  lg:mt-8
+        md:block md:w-full md:h-[500px]  md:mt-8
         sm:block sm:mx-auto sm:h-[500px] sm:w-full sm:mt-4"
       />
 
