@@ -32,7 +32,7 @@ export default function ThirdPart() {
     </div>
 
     <div className='
-    xl:w-[1070px] xl:h-[400px] xl:ml-52 xl:mb-14 xl:mt-[250px] xl:pt-[50px] xl:flex xl:justify-between 
+    xl:w-[1000px] xl:h-[400px] xl:ml-52 xl:mb-14 xl:mt-[250px] xl:pt-[50px] xl:flex xl:justify-between 
     lg:w-[1024px] lg:h-[400px] lg:flex lg:justify-around lg:mt-[300px] 
     md:mt-[350px] md:w-full md:h-[400px] md:flex md:justify-between
     sm:mt-[350px] sm:w-full sm:h-[400px] sm:flex sm:justify-between'>
@@ -51,7 +51,7 @@ export default function ThirdPart() {
         md:w-[450px] md:h-[400px]
         sm:w-[300px] sm:h-[400px] '>
         <h1 className='
-        xl:text-3xl xl:font-bold xl:text-center xl:mt-4
+        xl:text-3xl xl:font-bold xl:text-center xl:mt-4 xl:ml-[-20px]
         lg:text-2xl lg:font-bold lg:text-center lg:mt-4 lg:ml-[-30px]
         md:text-2xl md:font-bold md:ml-12
         sm:text-xl sm:font-bold sm:ml-[-10px] sm:mt-[50px]'>Get in Contact With The Team</h1>
