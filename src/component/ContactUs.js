@@ -14,7 +14,7 @@ export default function ContactUs() {
     <div className='w-full'>
     <div>
     <h1 className='
-       xl:text-4xl xl:font-bold xl:ml-[230px]
+       xl:text-4xl xl:font-bold xl:ml-[120px]
        lg:text-3xl lg:font-bold lg:ml-[40px]
        md:text-2xl md:font-bold md:ml-[40px] 
        sm:text-2xl sm:font-bold sm:ml-[40px]'>Let's Get Talking
