@@ -133,7 +133,7 @@ export default function ContactUs() {
       </div>
 
         <h1 className='
-        xl:text-3xl xl:font-bold xl:ml-[100px] 
+        xl:text-3xl xl:font-bold xl:ml-[80px] 
         lg:text-xl lg:font-extrabold lg:ml-[260px] lg:w-[450px]
         md:text-xl md:font-extrabold md:ml-[150px] md:w-[450px] md:mt-[-50px]
         sm:text-xl sm:font-extrabold sm:ml-[110px] sm:w-[450px] sm:mt-[-50px]'>Fixing Homes and Setting You Up for Success</h1>

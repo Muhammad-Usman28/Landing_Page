@@ -57,13 +57,13 @@ export default function SecondPart() {
         sm:w-[200px] sm:h-[500px]' >
 
          <FontAwesomeIcon icon={faDollarSign} className='
-         xl:w-[40px] xl:h-[40px] xl:mt-[150px] xl:ml-[-10px]
+         xl:w-[40px] xl:h-[40px] xl:mt-[150px] xl:ml-[-30px]
          lg:w-[30px] lg:h-[30px] lg:mt-[135px] lg:ml-[30px]
          md:mt-[130px] md:ml-[40px] md:w-[20px] md:h-[20px] md:mb-[20px]
          sm:mt-[80px] sm:ml-[70px] sm:w-[20px] sm:h-[20px] sm:mb-[20px]' /> 
 
             <p className='
-            xl:mt-[-10px] xl:text-lg xl:text-center xl:w-[350px] xl:ml-[-155px] 
+            xl:mt-[-10px] xl:text-lg xl:text-center xl:w-[350px] xl:ml-[-185px] 
             lg:w-[180px] lg:ml-[-50px] lg:mt-[40px] lg:text-center lg:text-sm 
             md:w-[180px] md:text-sm md:ml-[-30px] md:text-center
             sm:w-[150px] sm:text-sm sm:ml-[5px] sm:text-center '>
