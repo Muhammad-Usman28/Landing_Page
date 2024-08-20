@@ -12,10 +12,12 @@ export default function ContactUs() {
 
   return (
     <div className='w-full'>
-    <div className="container xl:ml-[190px]">
+    <div>
     <h1 className='
-       text-4xl font-bold
-       lg:text-3xl md:text-2xl sm:text-2xl'>Let's Get Talking
+       xl:text-4xl xl:font-bold xl:ml-[230px]
+       lg:text-3xl lg:font-bold lg:ml-[40px]
+       md:text-2xl md:font-bold md:ml-[40px] 
+       sm:text-2xl sm:font-bold sm:ml-[40px]'>Let's Get Talking
     </h1>
 </div>
 
